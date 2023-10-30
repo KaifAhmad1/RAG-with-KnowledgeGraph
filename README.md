@@ -1,2 +1,2 @@
 # RAG-with-KnowledgeGraph
-Retrieval Augmented Generation with LangChain, Neo4J Graph DB
+Retrieval Augmented Generation with LangChain and Neo4J Graph DB
